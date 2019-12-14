@@ -7,6 +7,7 @@ Aquest projecte s´ha generat amb [Angular CLI](https://github.com/angular/angul
 ## Creat amb **ng new goty**
 - node_modules añadidos:  **bootstrap**, **jquery**, **popper** and defined in **angular.json**
 - node_modules añadidos: **sweetalert2**, **angularfire**, **firebase**
+- No es puja a github el directori /src/environments
 
 ## goty backend
 - goty utilitza **goty-backend** per a consultar i actualitzar la db **goty**
