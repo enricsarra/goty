@@ -1,10 +1,15 @@
 # Goty
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
+Aquest projecte s´ha generat amb [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
-## Created with **ng new goty**
+# Utilitza "goty-backend" [https://github.com/enricsarra/goty-backend]
+
+## Creat amb **ng new goty**
 - node_modules añadidos:  **bootstrap**, **jquery**, **popper** and defined in **angular.json**
 - node_modules añadidos: **sweetalert2**, **angularfire**, **firebase**
+
+## goty backend
+- goty utilitza **goty-backend** per a consultar i actualitzar la db **goty**
 
 ## Development server
 
@@ -53,9 +58,9 @@ En la documentación/installing
 - ngx-charts (swimlane) documentación: [<https://swimlane.gitbook.io/ngx-charts/]>
 
 ## Working with **goty**
-- *cd angular-goty/goty-backend*
+- *cd goty/goty-backend*
     - *firebase serve*     
         - Emulador arrancado (http://localhost:5000)
-- *cd angular-goty/goty*
+- *cd goty*
     - *ng server*   
         -  Emulador arrancado (http://localhost:4200)
