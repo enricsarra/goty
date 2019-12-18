@@ -6,7 +6,7 @@ Aquest projecte s´ha generat amb [Angular CLI](https://github.com/angular/angul
 
 ## Creat amb **ng new goty**
 - node_modules añadidos:  **bootstrap**, **jquery**, **popper** and defined in **angular.json**
-- node_modules añadidos: **sweetalert2**, **angularfire**, **firebase**
+- node_modules añadidos: **npm install @swimlane/ngx-charts --save** **npm install sweetalert2  --save**, **npm install angularfire --save**, **npm install  firebase --save**
 - No es puja a github el directori /src/environments
 
 ## goty backend
@@ -59,7 +59,7 @@ En la documentación/installing
 - ngx-charts (swimlane) documentación: [<https://swimlane.gitbook.io/ngx-charts/]>
 
 ## Working with **goty**
-- *cd goty/goty-backend*
+- *cd goty-backend*
     - *firebase serve*     
         - Emulador arrancado (http://localhost:5000)
 - *cd goty*
